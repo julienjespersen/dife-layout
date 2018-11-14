@@ -2,7 +2,7 @@
 
 ## De quoi s'agit-il?
 
-> Changer l'aspect des pages du site web.
+> :point_up: Changer l'aspect des pages du site web.
 
 Seul le bandeau supérieur et le menu de navigation changent; la partie centrale reste à l'identique. Le menu de gauche disparaît et est remplacé par un menu en haut de page.
 
@@ -11,7 +11,7 @@ Un prototype est visible ici:
 
 
 ## Sommes-nous pressé?
-> Non!
+> :point_up: Non!
 
 Ni la DiSTIC ni le Service de communication n'ont émis d'ultimatum. Ils nous soutiennent, nous conseillent et nous accompagnent dans le changement.
 
@@ -26,7 +26,7 @@ ou alors comme ceux qui ne sont pas du tout dans les clous:
 Ceci dit, les webmasters de la DIFE le souhaitent!
 
 ## Quelles grandes modifications?
-> Le menu (la structure et l'aspect)!
+> :point_up: Le menu (la structure et l'aspect)!
 
 Dans le layout 2016 le menu de navigation est modifié par rapport au layout précédent, hormis son aspect, un niveau de menu disparaît, celui qui actuellement contient les pages sommitales des services.
 
@@ -50,12 +50,12 @@ Dans le layout 2016 le menu de navigation est modifié par rapport au layout pr�
 - Fonctionnalités (js): carousel, AC (panier, login, …)
 
 ## Quelle quantité de travail?
-> 4 semaines pour les services, 4 semaines pour moi
+> :point_up: 4 semaines pour les services, 4 semaines pour moi
 
 Certains services auront besoin de plus de ressources pour opérer la transition (i.e. AC), pour certains ça serait très court (i.e. OVE).
 
 ## Pourquoi changer?
-> Montrer note appartenance à l'UNIGE
+> :point_up: Montrer note appartenance à l'UNIGE
 
 On pourrait imaginer 2 scénarios d'évolution (non mutuellement exclusifs):
 
