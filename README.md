@@ -39,11 +39,11 @@ Dans le layout 2016 le menu de navigation est modifié par rapport au layout pr�
 > Correction des liens et des contenus rédigés.
 
 #### Pour les équipes
-- repenser distribution du contenu à travers les pages 
+- Repenser distribution du contenu à travers les pages 
 
 #### Pour l'équipe comm:
-- repenser les pages d'accueil ou les pages pivots
-- repenser distribution du contenu à travers les pages mais pour la DIFE centrale
+- Repenser les pages d'accueil ou les pages pivots
+- Repenser distribution du contenu à travers les pages mais pour la DIFE centrale
 
 #### Pour l'équipe comm:
 - Style (css): ajustement du layout DIFE avec layout UNIGE
@@ -57,11 +57,10 @@ Certains services auront besoin de plus de ressources pour opérer la transition
 ## Pourquoi changer?
 > Montrer note appartenance à l'UNIGE
 
-
 On pourrait imaginer 2 scénarios d'évolution (non mutuellement exclusifs):
 
 1. Hybride: haut et pied de page à la UNIGE, corps de page à la DIFE
 
 2. Mue complète: adoption du layout UNIGE dans son ensemble (menu et corps de page)
 
-Parceque on en bénéficie et l'UNIGE en bénéficierait: synergie
+Parceque la DIFE bénéficierait du travail de l'UNIGE et réciproquement: synergie
