@@ -16,8 +16,8 @@ https://silene5.unige.ch/c5/dife-test/presentation/
 Ni la DiSTIC ni le Service de communication n'ont émis d'ultimatum. Ils nous soutiennent, nous conseillent et nous accompagnent dans le changement.
 
 Nous serons parmis les derniers avec:
-- https://www.unige.ch/math/fr/
-- http://www.unige.ch/sciences/terre/fr/
+- [Section de mathématique](https://www.unige.ch/math/fr/)
+- [Sciences de la terre] (http://www.unige.ch/sciences/terre/fr/)
 
 
 ou alors comme ceux qui ne sont pas du tout dans les clous:
