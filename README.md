@@ -36,7 +36,7 @@ Dans le layout 2016 le menu de navigation est modifié par rapport au layout pr�
 - Attention confusion: pas de modification du CMS, espace de travail identique
 
 ## Quel type de travail?
-> Correction des liens et des contenus rédigés.
+> :point_up: Correction des liens et des contenus rédigés.
 
 #### Pour les équipes
 - Repenser distribution du contenu à travers les pages 
