@@ -7,7 +7,7 @@
 Seul le bandeau supérieur et le menu de navigation changent; la partie centrale reste à l'identique. Le menu de gauche disparaît et est remplacé par un menu en haut de page.
 
 Un prototype est visible ici:
-https://silene5.unige.ch/c5/dife-test/presentation/
+[DIFE proto charte 2016](https://silene5.unige.ch/c5/dife-test/presentation/)
 
 
 ## Sommes-nous pressé?
@@ -17,11 +17,11 @@ Ni la DiSTIC ni le Service de communication n'ont émis d'ultimatum. Ils nous so
 
 Nous serons parmis les derniers avec:
 - [Section de mathématique](https://www.unige.ch/math/fr/)
-- [Sciences de la terre] (http://www.unige.ch/sciences/terre/fr/)
+- [Sciences de la terre](http://www.unige.ch/sciences/terre/fr/)
 
 
 ou alors comme ceux qui ne sont pas du tout dans les clous:
-- https://epgl.unige.ch/epgl/index.php
+- [Section des sciences pharmaceutiques](https://epgl.unige.ch/epgl/index.php)
 
 Ceci dit, les webmasters de la DIFE le souhaitent!
 
