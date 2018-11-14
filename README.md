@@ -20,52 +20,48 @@ Nous serons parmis les derniers avec:
 - http://www.unige.ch/sciences/terre/fr/
 
 
-ou alors comme ceux qui ne sont pas dutout dans les clous:
+ou alors comme ceux qui ne sont pas du tout dans les clous:
 - https://epgl.unige.ch/epgl/index.php
 
-Mais! les webmasters de la DIFE le souhaitent!
+Ceci dit, les webmasters de la DIFE le souhaitent!
 
 ## Quelles grandes modifications?
 > Le menu (la structure et l'aspect)!
 
-Dans le layout 2016 le menu de navigation est modifié par rapport au layout précédent, hormis son aspect, un niveau de menu disparaît, celui qui actuellement contient les pages sommitales des services
+Dans le layout 2016 le menu de navigation est modifié par rapport au layout précédent, hormis son aspect, un niveau de menu disparaît, celui qui actuellement contient les pages sommitales des services.
 
-Moins d'étages, liens rompus à vérifier, redistribution des contenus dans une arborescence moins profonde
-
-fil d'ariane
-
-Vos pages d'accueil seront des pages parmi d'autres
-
-pas de modification du CMS: espace de travail identique
+- Moins d'étages, liens rompus à vérifier, redistribution des contenus dans une arborescence moins profonde
+- Il n'y a plus de fil d'ariane (bread crumbs)
+- Les pages d'accueil seront des pages parmi d'autres
+- Attention confusion: pas de modification du CMS, espace de travail identique
 
 ## Quel type de travail?
 > Correction des liens et des contenus rédigés.
 
-#### équipes
-repenser distribution du contenu à travers les pages 
+#### Pour les équipes
+- repenser distribution du contenu à travers les pages 
 
-#### équipe comm:
+#### Pour l'équipe comm:
+- repenser les pages d'accueil ou les pages pivots
+- repenser distribution du contenu à travers les pages mais pour la DIFE centrale
 
-- repenser les homes pages ou pages pivots
-- idem que service mais pour la DIFE centrale
-
-moi
-css : ajustement du layout DIEF avec layout UNIGE
-js : carousel, AC (panier, login, …)
+#### Pour l'équipe comm:
+- Style (css): ajustement du layout DIFE avec layout UNIGE
+- Fonctionnalités (js): carousel, AC (panier, login, …)
 
 ## Quelle quantité de travail?
 > 4 semaines pour les services, 4 semaines pour moi
 
-Certains services ont besoin de plus de ressources pour opérer la transition (AC), pour certains c'est très court (OVE).
+Certains services auront besoin de plus de ressources pour opérer la transition (i.e. AC), pour certains ça serait très court (i.e. OVE).
 
 ## Pourquoi changer?
-> Montrer note appartenance
+> Montrer note appartenance à l'UNIGE
 
 
 On pourrait imaginer 2 scénarios d'évolution (non mutuellement exclusifs):
 
-1. Hybride: haut de page à la UNIGE, corps de page à la DIFE
+1. Hybride: haut et pied de page à la UNIGE, corps de page à la DIFE
 
-2. Mue complète: adoption du layout UNIGE dans son ensemble (menu et coprs de page)
+2. Mue complète: adoption du layout UNIGE dans son ensemble (menu et corps de page)
 
 Parceque on en bénéficie et l'UNIGE en bénéficierait: synergie
