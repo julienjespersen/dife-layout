@@ -64,3 +64,5 @@ On pourrait imaginer 2 scénarios d'évolution (non mutuellement exclusifs):
 2. Mue complète: adoption du layout UNIGE dans son ensemble (menu et corps de page)
 
 Parceque la DIFE bénéficierait du travail de l'UNIGE et réciproquement: synergie
+
+## Update 2023: Layout UNIGE adopté!
